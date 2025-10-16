@@ -1,10 +1,15 @@
-# Project Logger
+# Plogger - Project Logger
 
 Plogger is a lightweight single script python tool for organizing and documenting code projects. It helps developers track important files, notes, and tasks — and automatically generate structured summaries of their work.
 
 ## Purpose
 
 Plogger creates a living project log that keeps context intact across iterations. It’s especially useful when working with large codebases or when using LLM-based coding assistants: the exported `.txt` summary can be provided as context during prompting to give the model a complete view of your project.
+
+<p align="center">
+  <img src="./ploggerapp.png" width="600">
+  <img src="./ploggersummary.png" width="600">
+</p>
 
 ## How It Works
 
