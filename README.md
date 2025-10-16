@@ -7,8 +7,8 @@ Plogger is a lightweight single script python tool for organizing and documentin
 Plogger creates a living project log that keeps context intact across iterations. It’s especially useful when working with large codebases or when using LLM-based coding assistants: the exported `.txt` summary can be provided as context during prompting to give the model a complete view of your project including file structure.
 
 <p align="center">
-  <img src="./ploggerapp.png" width="700">
-  <img src="./ploggersummary.png" width="400">
+  <img src="./ploggerapp.png" width="900">
+  <img src="./ploggersummary.png" width="300">
 </p>
 
 ## How It Works
